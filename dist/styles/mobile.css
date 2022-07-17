@@ -1,0 +1,26 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar .navbar__logo{
+    padding-top: 1rem;
+}
+#navbar .navbar__menu-list{
+    justify-content: center;
+}
+#main .main__content-1 .main__content-1-items{
+    flex-direction: column;
+}
+#main .main__content-2{
+    flex-direction: column;
+    justify-content: center;
+}
+#main .main__content-2 .main__content-2-image,
+#main .main__content-2 .main__content-2-text{
+    width: 100%;
+}
+#main .main__content-2 .main__content-2-image{
+    height: 100vh;
+}
+#main .main__content-3-container-images{
+    flex-direction: column;
+}
